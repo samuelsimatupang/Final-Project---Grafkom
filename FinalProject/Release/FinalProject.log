@@ -1,0 +1,9 @@
+﻿  glad.c
+  Application.cpp
+D:\Code\Voxel-Like\FinalProject\FinalProject\Application.cpp(109,40): error C2065: 'z': undeclared identifier
+D:\Code\Voxel-Like\FinalProject\FinalProject\Application.cpp(110,2): error C2146: syntax error: missing ';' before identifier 'cube'
+  Camera.cpp
+  Cube.cpp
+D:\Code\Voxel-Like\FinalProject\FinalProject\Cube.cpp(6,14): warning C4244: '=': conversion from 'GLuint' to 'float', possible loss of data
+  RenderEngine.cpp
+  Shader.cpp
